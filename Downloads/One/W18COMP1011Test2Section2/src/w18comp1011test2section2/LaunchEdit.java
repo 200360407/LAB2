@@ -11,7 +11,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author jwright
+ * @author Arsh Preet
  */
 public class LaunchEdit extends Application {
     

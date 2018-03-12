@@ -19,7 +19,7 @@ import javafx.scene.control.TextField;
 /**
  * FXML Controller class
  *
- * @author jwright
+ * @author Arsh Preet
  */
 public class EditUserViewController implements Initializable {
 
